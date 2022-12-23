@@ -1,0 +1,1 @@
+# neurips-neural-mmo-challenge-2022
